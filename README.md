@@ -2,9 +2,9 @@
 
 > CRIANDO UM SISTEMA BANCÁRIO COM PYTHON
 
-[Acesse AQUI]()
+[Acesse AQUI](https://github.com/4damanthys/122022-001_Criando-um-sistema-banc-rio-com-Python)
 
-![Preview]()
+![Preview](./Config/preview.png)
 
 Projeto elaborado com base no desafio 'Criando um Sistema Bancário com Python' da DIO
 
